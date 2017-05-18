@@ -1,0 +1,100 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="jplugin-study:war exploded">
+    <output-path>D:/cjworkspace/jplugin-study/target/jplugin-study</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="jplugin-study" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: net.jplugin.mvn:jplugin-core:1.5.1-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.1.5" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.1.5" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.1.5" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.5.2" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.4.4" />
+          <element id="library" level="project" name="Maven: commons-pool:commons-pool:1.6" />
+          <element id="library" level="project" name="Maven: commons-dbcp:commons-dbcp:1.2.1" />
+          <element id="library" level="project" name="Maven: xerces:xercesImpl:2.0.2" />
+          <element id="library" level="project" name="Maven: org.javassist:javassist:3.20.0-GA" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.14" />
+          <element id="library" level="project" name="Maven: com.haiziwang.platform:platform-appclient:1.5.1-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: com.haiziwang.platform:platform-cfg:1.5.0-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: org.apache.zookeeper:zookeeper:3.4.8" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.6.1" />
+          <element id="library" level="project" name="Maven: jline:jline:0.9.94" />
+          <element id="library" level="project" name="Maven: io.netty:netty:3.7.0.Final" />
+          <element id="library" level="project" name="Maven: org.apache.curator:curator-recipes:2.11.0" />
+          <element id="library" level="project" name="Maven: org.apache.curator:curator-framework:2.11.0" />
+          <element id="library" level="project" name="Maven: org.apache.curator:curator-client:2.11.0" />
+          <element id="library" level="project" name="Maven: com.google.guava:guava:16.0.1" />
+          <element id="library" level="project" name="Maven: com.haiziwang.platform:esf-client:1.5.1-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: com.haiziwang.platform:esf-register:1.5.1-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: com.haiziwang.platform:esf-registerCenter:1.5.1-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: com.haiziwang.platform:esf-cluster:1.5.1-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: com.haiziwang.platform:esf-io:1.5.1-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: io.netty:netty-all:5.0.0.Alpha1" />
+          <element id="library" level="project" name="Maven: com.caucho:hessian:4.0.7" />
+          <element id="library" level="project" name="Maven: de.javakaffee:kryo-serializers:0.36" />
+          <element id="library" level="project" name="Maven: com.esotericsoftware:kryo:3.0.3" />
+          <element id="library" level="project" name="Maven: com.esotericsoftware:reflectasm:1.10.1" />
+          <element id="library" level="project" name="Maven: com.esotericsoftware:minlog:1.3.0" />
+          <element id="library" level="project" name="Maven: org.objenesis:objenesis:2.1" />
+          <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:2.6.1" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-pool2:2.4.2" />
+          <element id="library" level="project" name="Maven: com.jcraft:jzlib:1.1.3" />
+          <element id="library" level="project" name="Maven: com.esotericsoftware.reflectasm:reflectasm:1.09" />
+          <element id="library" level="project" name="Maven: org.ow2.asm:asm:4.0" />
+          <element id="library" level="project" name="Maven: com.typesafe:config:1.3.0" />
+          <element id="library" level="project" name="Maven: com.haiziwang.platform:esf-common:1.5.1-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: com.haiziwang.platform:esf-server:1.5.1-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: com.haiziwang.platform.kmonitor:kmonitor-report:1.5.0-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: com.haiziwang.platform.kmonitor:kmonitor-common:1.0.0-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: net.jpountz.lz4:lz4:1.2.0" />
+          <element id="library" level="project" name="Maven: commons-configuration:commons-configuration:1.9" />
+          <element id="library" level="project" name="Maven: commons-jxpath:commons-jxpath:1.3" />
+          <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.6" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.2.8" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.39" />
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.6" />
+          <element id="library" level="project" name="Maven: com.haiziwang.platform:esf-client4cpp:1.5.1-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: com.paipai:component:3.1.1-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: com.paipai:netframework:3.0.2-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: com.paipai:util:3.2.2-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.4" />
+          <element id="library" level="project" name="Maven: de.mhus.osgi.tutorial:quartz-job:1.0.4" />
+          <element id="library" level="project" name="Maven: biz.aQute:bndlib:1.50.0" />
+          <element id="library" level="project" name="Maven: de.mhus.osgi:osgiquartz:1.0.4" />
+          <element id="library" level="project" name="Maven: org.osgi:org.osgi.compendium:5.0.0" />
+          <element id="library" level="project" name="Maven: org.httpobjects.apache-httpclient-4.x:httpobjects-apache-httpclient-4.x:0.11.0" />
+          <element id="library" level="project" name="Maven: org.httpobjects.client:httpobjects-client:0.11.0" />
+          <element id="library" level="project" name="Maven: org.httpobjects:httpobjects:0.11.0" />
+          <element id="library" level="project" name="Maven: com.hzw.website:qrcode-swetake:3.0-RELEASE" />
+          <element id="library" level="project" name="Maven: org.apache.xmlbeans:xmlbeans:2.3.0" />
+          <element id="library" level="project" name="Maven: stax:stax-api:1.0.1" />
+          <element id="library" level="project" name="Maven: org.apache.poi:poi-scratchpad:3.9" />
+          <element id="library" level="project" name="Maven: org.apache.poi:poi:3.9" />
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.5" />
+          <element id="library" level="project" name="Maven: org.apache.poi:poi-ooxml:3.9" />
+          <element id="library" level="project" name="Maven: dom4j:dom4j:1.6.1" />
+          <element id="library" level="project" name="Maven: xml-apis:xml-apis:1.0.b2" />
+          <element id="library" level="project" name="Maven: org.apache.poi:poi-ooxml-schemas:3.9" />
+          <element id="library" level="project" name="Maven: commons-io:commons-io:2.3" />
+          <element id="library" level="project" name="Maven: commons-fileupload:commons-fileupload:1.2.2" />
+          <element id="library" level="project" name="Maven: commons-net:commons-net:3.3" />
+          <element id="library" level="project" name="Maven: org.quartz-scheduler:quartz:2.2.2" />
+          <element id="library" level="project" name="Maven: c3p0:c3p0:0.9.1.1" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.7" />
+          <element id="library" level="project" name="Maven: jstl:jstl:1.2" />
+          <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.9.2" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.1.1" />
+          <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2.1" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="D:/cjworkspace/jplugin-study/target/jplugin-study/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="jplugin-study/web/Web" />
+    </root>
+  </artifact>
+</component>

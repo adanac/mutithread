@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tiny-web:war">
+    <output-path>E:/adanac_test/mavenWeb_tiny/tiny-web/target</output-path>
+    <root id="archive" name="tiny-web.war">
+      <element id="artifact" artifact-name="tiny-web:war exploded" />
+    </root>
+  </artifact>
+</component>

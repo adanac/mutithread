@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jplugin-study:war">
+    <output-path>D:/cjworkspace/jplugin-study/target</output-path>
+    <root id="archive" name="jplugin-study.war">
+      <element id="artifact" artifact-name="jplugin-study:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wumeijieapi:war">
+    <output-path>E:/adanac_test/springboot_mybatis_demo-master/target</output-path>
+    <root id="archive" name="wumeijieapi.war">
+      <element id="artifact" artifact-name="wumeijieapi:war exploded" />
+    </root>
+  </artifact>
+</component>

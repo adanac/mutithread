@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="adanac-blog:war">
+    <output-path>E:/adanac_demo/adanac-blog/target</output-path>
+    <root id="archive" name="adanac-blog.war">
+      <element id="artifact" artifact-name="adanac-blog:war exploded" />
+    </root>
+  </artifact>
+</component>

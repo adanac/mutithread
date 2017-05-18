@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="easyreport-web:war">
+    <output-path>E:/adanac_test/EasyReport-master/easyreport-web/target</output-path>
+    <root id="archive" name="easyreport-web.war">
+      <element id="artifact" artifact-name="easyreport-web:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="symphony:war">
+    <output-path>E:/adanac_test/symphony-master/target</output-path>
+    <root id="archive" name="symphony.war">
+      <element id="artifact" artifact-name="symphony:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="model-store-frontend:war">
+    <output-path>E:/adanac_test/sunchenbin-Mybatis_BuildTable_V0.2-master/Mybatis_BuildTable_V0.2/model-store-frontend/target</output-path>
+    <root id="archive" name="frontend.war">
+      <element id="artifact" artifact-name="model-store-frontend:war exploded" />
+    </root>
+  </artifact>
+</component>

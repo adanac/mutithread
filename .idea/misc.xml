@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://D:/cjworkspace/jplugin-study" />
+    <file type="web" url="file://D:/cjworkspace/jplugin-study-trunk" />
+    <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$PROJECT_DIR$/../Redis-master" />
+    <file type="web" url="file://E:/adanac_demo/adanac-blog" />
+    <file type="web" url="file://E:/adanac_demo/mavenTest" />
+    <file type="web" url="file://E:/adanac_demo/spring-learning-master/spring-helloworld" />
+    <file type="web" url="file://E:/adanac_demo/spring-learning-master/spring-mvc" />
+    <file type="web" url="file://E:/adanac_test/EasyReport-master/easyreport-web" />
+    <file type="web" url="file://E:/adanac_test/mavenTest" />
+    <file type="web" url="file://E:/adanac_test/mavenWeb/ssm-web" />
+    <file type="web" url="file://E:/adanac_test/mavenWeb_tiny/tiny-web" />
+    <file type="web" url="file://E:/adanac_test/springboot_mybatis_demo-master" />
+    <file type="web" url="file://E:/adanac_test/sunchenbin-Mybatis_BuildTable_V0.2-master/Mybatis_BuildTable_V0.2/model-store-frontend" />
+    <file type="web" url="file://E:/adanac_test/symphony-master" />
+    <file type="web" url="file://E:/SVNTEST/svn/back/sale_center/branches" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="E:/adanac_test/EasyReport-master/pom.xml" />
+        <option value="$PROJECT_DIR$/../Redis-master/pom.xml" />
+        <option value="E:/adanac_test/mavenWeb/ssm-pom/pom.xml" />
+        <option value="E:/adanac_test/springboot_mybatis_demo-master/pom.xml" />
+        <option value="E:/adanac_test/mavenTest/pom.xml" />
+        <option value="E:/adanac_test/symphony-master/pom.xml" />
+        <option value="E:/adanac_test/mavenWeb_tiny/tiny-pom/pom.xml" />
+        <option value="E:/adanac_demo/spring-learning-master/pom.xml" />
+        <option value="E:/adanac_demo/webporter-master/pom.xml" />
+        <option value="D:/soft_study/fastexcel-master/pom.xml" />
+        <option value="E:/adanac_demo/mavenTest/pom.xml" />
+        <option value="$PROJECT_DIR$/../adanac-leecode/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="E:/adanac_test/mavenWeb/ssm-common/pom.xml" />
+        <option value="E:/adanac_test/mavenWeb/ssm-interface/pom.xml" />
+        <option value="E:/adanac_test/mavenWeb/ssm-interface/ssm-interface-common/pom.xml" />
+        <option value="E:/adanac_test/mavenWeb/ssm-interface/ssm-interface-dao/pom.xml" />
+        <option value="E:/adanac_test/mavenWeb/ssm-interface/ssm-interface-service/pom.xml" />
+        <option value="E:/adanac_test/mavenWeb/ssm-interface/ssm-interface-web/pom.xml" />
+        <option value="E:/adanac_test/mavenWeb/ssm-interface/ssm-interface-worker/pom.xml" />
+        <option value="E:/adanac_test/mavenWeb/ssm-platform/pom.xml" />
+        <option value="E:/adanac_test/mavenWeb/ssm-platform/ssm-platform-service/pom.xml" />
+        <option value="E:/adanac_test/mavenWeb/ssm-pom/pom.xml" />
+        <option value="E:/adanac_test/mavenWeb/ssm-service/pom.xml" />
+        <option value="E:/adanac_test/mavenWeb/ssm-web/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="myConfigurationMap">
+      <map>
+        <entry key="D:/cjworkspace/jplugin-study">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="http://172.172.177.22/svn/back/sale_center/branches" />
+                  <option value="http://172.172.177.22/svn/back/sale_center/doc" />
+                  <option value="http://172.172.177.22/svn/back/sale_center/stable" />
+                  <option value="http://172.172.177.22/svn/back/sale_center/tag" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="http://172.172.177.22/svn/back/sale_center/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="D:/cjworkspace/jplugin-study-trunk">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="http://172.172.177.22/svn/back/sale_center/branches" />
+                  <option value="http://172.172.177.22/svn/back/sale_center/doc" />
+                  <option value="http://172.172.177.22/svn/back/sale_center/stable" />
+                  <option value="http://172.172.177.22/svn/back/sale_center/tag" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="http://172.172.177.22/svn/back/sale_center/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-helloworld:war">
+    <output-path>E:/adanac_demo/spring-learning-master/spring-helloworld/target</output-path>
+    <root id="archive" name="spring-helloworld-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="spring-helloworld:war exploded" />
+    </root>
+  </artifact>
+</component>

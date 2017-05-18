@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mavenTest:war">
+    <output-path>E:/adanac_demo/mavenTest/target</output-path>
+    <root id="archive" name="mavenTest-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="mavenTest:war exploded" />
+    </root>
+  </artifact>
+</component>
